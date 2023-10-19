@@ -1,4 +1,4 @@
 # MwDM
-Github na zajęcia\n
-Ścieżka do pliku z kodem:\n
+Github na zajęcia <br>
+Ścieżka do pliku z kodem:<br>
 /MwDM-prezentacja/main.py
