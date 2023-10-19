@@ -9,4 +9,5 @@ Github na zajęcia <br>
 <li><a href="https://replit.com/@dawidl4/formatowanie#main.py" target="_blank">Formatowaneie danych</a></li>
 <li><a href="https://replit.com/@dawidl4/podmiana#main.py" target="_blank">Podmienianie brakujących wartości średnią</a></li>
 <li><a href="https://replit.com/@KonradStomski/MwDM#main.py" target="_blank">Usuwanie brakujących wartości</a></li>
+<li><a href="https://replit.com/@KonradStomski/MwDMFill#main.py" target="blank">Inne metody uzupełniania brakujących wartości</a></li>
 </ul>
