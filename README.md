@@ -11,3 +11,5 @@ Github na zajęcia <br>
 <li><a href="https://replit.com/@KonradStomski/MwDM#main.py" target="_blank">Usuwanie brakujących wartości</a></li>
 <li><a href="https://replit.com/@KonradStomski/MwDMFill#main.py" target="blank">Inne metody uzupełniania brakujących wartości</a></li>
 </ul>
+<p>Link do prezentacji:</p>
+<a href="https://tinyurl.com/prezentacja-o-preprocessingu" target="blank">tinyurl.com/prezentacja-o-preprocessingu</a>
